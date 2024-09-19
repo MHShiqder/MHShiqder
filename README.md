@@ -1,5 +1,5 @@
 # 💫 Hey, I am Hasib
-👩🏻‍💻 CSE Graduate sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Computer Science at the [Mymensingh Engineering College, Mymensingh](https://mec.ac.bd/)<br>💭 Currently learning about MERN stack development at [Programming Hero](https://web.programming-hero.com/)
+👩🏻‍💻 CSE Graduate sharing about my learnings in tech<br>👩🏻‍🎓 Studied Computer Science at the [Mymensingh Engineering College, Mymensingh](https://mec.ac.bd/)<br>💭 Currently learning about MERN stack development at [Programming Hero](https://web.programming-hero.com/)
 
 
 # 💻 Tech Stack:
