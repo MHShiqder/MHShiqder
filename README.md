@@ -80,6 +80,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MHShiqder/MHShiqder/output/snake.svg" alt="Snake animation" />
-
-###
