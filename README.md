@@ -79,7 +79,7 @@
 
 
 
-  [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHShiqder&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=mhshiqder&theme=tokyonight)
 
 
 
