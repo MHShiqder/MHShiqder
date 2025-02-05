@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHShiqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=mhshiqder&theme=gruvbox&hide_border=false)](https://git.io/streak-stats)
+ (https://streak-stats.demolab.com?user=mhshiqder&theme=gruvbox&hide_border=false)(https://git.io/streak-stats)
 
 
 ###
