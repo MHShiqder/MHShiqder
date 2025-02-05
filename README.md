@@ -78,7 +78,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHShiqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
- ![](https://streak-stats.demolab.com?user=mhshiqder&theme=tokyonight&hide_border=true)
+ ![GitHub Commit Streak](https://img.shields.io/github/commit-activity/w/mhshiqder?label=Commit%20Streak&color=brightgreen)
+
 
 
 
