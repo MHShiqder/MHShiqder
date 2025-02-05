@@ -76,10 +76,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MHShiqder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MHShiqder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhshiqder&show_icons=true&locale=en" alt="mhshiqder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhshiqder&" alt="mhshiqder" /></p>
-</div>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mhshiqder&theme=gruvbox&hide_border=false)](https://git.io/streak-stats)
+
 
 ###
 
